@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/30 18:37:45.000.133,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/05 21:09:24.000.868,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/05 21:18:22.000.171,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos Video\MicroServicoEmail\View\View.Main.dfm</Transaction>
+    <Transaction>2023/10/05 21:18:22.000.171,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos Video\MicroServicoEmail\View\View.Main.pas</Transaction>
+    <Transaction>2023/10/05 21:18:29.000.554,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos Video\MicroServicoEmail\View\MicroServicoEmail.dproj</Transaction>
+    <Transaction>2023/10/05 21:19:00.000.333,=D:\Projetos Video\MicroServicoEmail\View\Unit1.pas</Transaction>
+    <Transaction>2023/10/05 21:19:36.000.843,D:\Projetos Video\MicroServicoEmail\View\Unit1.pas=D:\Projetos Video\MicroServicoEmail\Infra\Infra.Router.pas</Transaction>
+    <Transaction>2023/10/21 18:20:42.000.994,=D:\Projetos Video\MicroServicoEmail\View\View.Main.pas</Transaction>
+    <Transaction>2023/10/21 18:21:25.000.348,=D:\Projetos Video\MicroServicoEmail\Infra\Infra.Router.pas</Transaction>
+    <Transaction>2023/10/21 18:38:39.000.607,=D:\Projetos Video\MicroServicoEmail\Unit1.pas</Transaction>
+    <Transaction>2023/10/21 18:41:12.000.528,D:\Projetos Video\MicroServicoEmail\Interfaces\Interfaces.IEmail.pas=D:\Projetos Video\MicroServicoEmail\Unit1.pas</Transaction>
+    <Transaction>2023/10/21 18:46:26.000.155,D:\Projetos Video\MicroServicoEmail\Infra\Infra.Routes.pas=D:\Projetos Video\MicroServicoEmail\Infra\Infra.Rotas.pas</Transaction>
+    <Transaction>2023/10/21 18:49:25.000.571,=D:\Projetos Video\MicroServicoEmail\Unit1.pas</Transaction>
+    <Transaction>2023/10/21 18:51:47.000.297,D:\Projetos Video\MicroServicoEmail\Unit1.pas=D:\Projetos Video\MicroServicoEmail\Impl\Impl.Gmail.pas</Transaction>
+    <Transaction>2023/10/21 19:07:55.000.154,=D:\Projetos Video\MicroServicoEmail\Unit1.pas</Transaction>
+    <Transaction>2023/10/21 19:08:56.000.327,D:\Projetos Video\MicroServicoEmail\Unit1.pas=D:\Projetos Video\MicroServicoEmail\Impl\Impl.SendInBlue.pas</Transaction>
+  </Transactions>
+</BorlandProject>
